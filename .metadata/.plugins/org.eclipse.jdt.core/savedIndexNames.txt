@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\Aaftaab Rabbani Khan\Downloads\FSAD-WORKBOOK\.metadata\.plugins\org.eclipse.jdt.core
+2476648868.index
+1865797976.index
+3761863830.index
+947779979.index
+2123736466.index
+2761910524.index
